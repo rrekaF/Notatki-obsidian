@@ -4,3 +4,5 @@
 - "Pragmatic thinking and learning" - Andrew Hunt
 - "Egoless programming" - Weinberg
 - “Huberman Lab” - Andrew Huberman (Podcast)
+
+rescue time
