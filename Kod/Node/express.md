@@ -21,7 +21,7 @@ app.get("/json", function(req, res){
 # [[Middleware]]
 app.use(PATH, MIDDLEWARE
 
-PATH - opcjonalne, gdy się go nie poda funkcja będzie wykonywana każdego requestu.
+PATH - opcjonalne, gdy się go nie poda funkcja będzie wykonywana dla każdego requestu.
 MIDDLEWARE - funkcja wykonywana dla requestu
 
 np:
