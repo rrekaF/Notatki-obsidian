@@ -13,17 +13,15 @@ $\$4F = (4F)_{16}$
 ## Działania
 Pisemne: Dodawanie mnożenie odejmowanie dzielenie
 
-## Logarytmy
-$Log_{10} 10^{k-1} <= Log_{10}(10^{k}-1) < Log_{10} 10^{k}$
-$k-1 <= Log_{10}x < Log_{10}10^{k}$
-$k-1 < [[TODO]]
-
 ## Ułamki
 $0,734 = 7 \times 10^{-1} + 3 \times 10^{-2} + \times 10^{-3}$
 
 ## Liczby ujemne
 ### $u_{1}$:
-nie ogarniam [[TODO]]
+Pierwszy z lewej bit oznacza wartość (1 - ujemna / 0 - dodatnia), gdy jest on równy jeden czyli liczba jest ujemna trzeba odwrócić wszystkie wartości w liczbie.
+np (8bitowo).
+5 - 00000101
+-5 - 11111010
 
 ## [[Binary search algorithm|Wyszukiwanie binarne]]
 
